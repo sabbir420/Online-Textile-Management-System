@@ -1,0 +1,26 @@
+.bg-cover{
+	background: url(../images/google-logo.jpg);
+	height: 300px;
+	background-size: cover;
+}
+#content2
+{
+	width:1485px;
+	 height:300px;
+}
+#single_product
+{
+	display:inline-block;
+	float:left;
+	margin-left:20px;
+	padding:10px;
+	width:180px;
+	height:180px;
+}
+#details,#edit_account
+{
+	display: inline-block;
+	width:700px;
+	height:100px;
+
+}
